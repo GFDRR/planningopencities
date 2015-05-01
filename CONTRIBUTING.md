@@ -1,4 +1,4 @@
-# Contributing to LearnOSM
+# Contributing to PlanningOpenCities
 
 Thank you for your interest in contributing to [learnosm.org](http://learnosm.org). This file explains how to make
 contributions. We can also coordinate work with ['issues' here on github](https://github.com/hotosm/learnosm/issues?state=open), and discussion on the [learnosm-coord Mailing list](https://lists.openstreetmap.org/listinfo/learnosm-coord). Be sure to follow these channels if you are interested in ongoing contribution. 
